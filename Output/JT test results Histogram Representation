@@ -1,0 +1,1 @@
+The JT test gives us the P value and J value which helps us to determine the closeness and rank among nodes. If the P value is very near to 0(zero) that represents that network has better relations among the nodes. We used a histogram to identify which type of network gives us more accurate value when we compare them with other which is P value less than 0.1. 
