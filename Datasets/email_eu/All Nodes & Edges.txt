@@ -1,0 +1,23 @@
+Name: email-Eu-core-temporal-Dept1.txt
+Type: Graph
+Number of nodes: 309
+Number of edges: 1938
+Average degree:  12.5437
+
+Name: email-Eu-core-temporal-Dept2
+Type: Graph
+Number of nodes: 162
+Number of edges: 1045
+Average degree:  12.9012
+
+Name: email-Eu-core-temporal-Dept3
+Type: Graph
+Number of nodes: 89
+Number of edges: 973
+Average degree:  21.8652
+
+Name: email-Eu-core-temporal-Dept4
+Type: Graph
+Number of nodes: 142
+Number of edges: 833
+Average degree:  11.7324
