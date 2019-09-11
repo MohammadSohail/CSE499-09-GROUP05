@@ -1,0 +1,35 @@
+Data set: amazon
+at position 1: 25.0 %
+at position 2: 29.166666666666668 %
+at position 3: 20.833333333333336 %
+at position 4: 12.5 %
+at position 5: 12.5 %
+
+Data set: crime
+at position 1: 25.0 %
+at position 2: 29.166666666666668 %
+at position 3: 20.833333333333336 %
+at position 4: 12.5 %
+at position 5: 12.5 %
+
+Data set: fb
+at position 1: 8.333333333333332 %
+at position 2: 8.333333333333332 %
+at position 3: 12.5 %
+at position 4: 33.33333333333333 %
+at position 5: 37.5 %
+
+Data set: email_eu
+at position 1: 8.333333333333332 %
+at position 2: 8.333333333333332 %
+at position 3: 12.5 %
+at position 4: 33.33333333333333 %
+at position 5: 37.5 %
+
+Data set: p2p
+at position 1: 33.33333333333333 %
+at position 2: 25.0 %
+at position 3: 33.33333333333333 %
+at position 4: 8.333333333333332 %
+at position 5: 0.0 %
+
